@@ -1,4 +1,31 @@
-### Hi there 👋
+###  About me
+* Reinforcement learning Engineer(2022~2023)
+* Master student on Conputer science in Sitama-Univ(2020~2022)
+* Vimmer
+
+### GitHub project
+* Comming soon
+
+### Currently working on
+* Comming soon
+
+### Currently learning
+* Svelte
+* UI/UX design
+* Conservative Q-Learning
+
+### as owner
+* Comming soon
+
+### as contributor
+* Comming soon
+
+### My fav Gear...
+- HHKB　Professional Hybrid type-S black
+- Kenginton SlimBlade Pro track boll
+- JPRIDE model i
+- TIMEMORE coffe mill C2
+
 
 <!--
 **sakakibara-yuuki/sakakibara-yuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
