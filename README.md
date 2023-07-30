@@ -2,6 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakakibara-yuuki&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakakibara-yuuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Static Badge](https://img.shields.io/badge/development-on-blue)
+
 🏅 About me
 ---
 * 💻Reinforcement learning Engineer(2022~2023)
