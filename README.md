@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sakakibara-yuuki&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=sakakibara-yuuki&theme=flat)
 ![Sakakibara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakakibara-yuuki&show_icons=true&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakakibara-yuuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
