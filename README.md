@@ -60,11 +60,10 @@
   <code><img src="https://cdn.simpleicons.org/github/#181717" alt="github" width=24 height=24></code>
   <code><img src="https://cdn.simpleicons.org/gitlab/#FC6D26" alt="gitlab" width=24 height=24></code>
   <code><img src="https://cdn.simpleicons.org/amazonaws/#232F3E" alt="gitlab" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/docker/#2496ED" alt="gitlab" width=24 height=24></code>
   <code><img src="https://cdn.simpleicons.org/figma/#F24E1E" alt="gitlab" width=24 height=24></code>
 </p>
-
 <hr>
-
 
 <!--
 
