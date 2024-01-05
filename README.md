@@ -34,27 +34,35 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+
 <p align="center">
-  <code><img src="https://cdn.simpleicons.org/neovim/#57A143" alt="neovim" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/c/##A8B9CC" alt="c" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/pytorch/#EE4C2C" alt="pytorch" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/csharp/#512BD4" alt="csharp" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/dotnet/#512BD4" alt="dotnet" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="javascript" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/html5/#E34F26" alt="html5" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/git/#F05032" alt="git" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/postgresql/#4169E1" alt="postgresql" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/sqlite/#003B57" alt="sqlite" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/sqlalchemy/#D71F00" alt="sqlalchemy" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/github/#181717" alt="github" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/gitlab/#FC6D26" alt="gitlab" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/nodedotjs/#339933" alt="nodedotjs" align=left width=24 height=24></code>
-  <code><img src="https://cdn.simpleicons.org/npm/#CB3837" alt="npm" align=left width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/c/##A8B9CC" alt="c" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/cplusplus/#00599C" alt="cplusplus" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/python/#3776AB" alt="python" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/pytorch/#EE4C2C" alt="pytorch" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/sqlalchemy/#D71F00" alt="sqlalchemy" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/csharp/#512BD4" alt="csharp" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/dotnet/#512BD4" alt="dotnet" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/javascript/#F7DF1E" alt="javascript" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/nodedotjs/#339933" alt="nodedotjs" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/npm/#CB3837" alt="npm" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/html5/#E34F26" alt="html5" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/css3/#1572B6" alt="css3" width=24 height=24></code>
 </p>
+
+<p align="center">
+  <code><img src="https://cdn.simpleicons.org/vim/#019733" alt="vim" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/neovim/#57A143" alt="neovim" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/postgresql/#4169E1" alt="postgresql" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/mysql/#4479A1" alt="mysql" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/sqlite/#003B57" alt="sqlite" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/git/#F05032" alt="git" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/github/#181717" alt="github" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/gitlab/#FC6D26" alt="gitlab" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/amazonaws/#232F3E" alt="gitlab" width=24 height=24></code>
+  <code><img src="https://cdn.simpleicons.org/figma/#F24E1E" alt="gitlab" width=24 height=24></code>
+</p>
+
 <hr>
 
 
