@@ -1,35 +1,34 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=sakakibara-yuuki.sakakibara-yuuki) -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2000&pause=1500&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=80&lines=The+measure+of+a+man+is+;what+he+dose+with+code." alt="Typing SVG" /></a>
 </h1>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+-->
+
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+   I'm yuuki sakakibara, Computer Engineer & Software Developer from japan
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in Atatürk University Computer Engineering Department
+  🎓 I graduated from Saitama University Computer Engineering Department with master's degree
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 I graduated from Saitama University Computer Engineering Department
   <br>
   💻 I love writing code and learn anythings about it
+  <!-- <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django -->
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me anything about from <a href="https://github.com/yuuki-sakakibara/yuuki-sakakibara/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  📫 How to reach me: <a href="mailto: sakakilabo0000@gmail.com">sakakilabo0000@gmail.com</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
 <hr>
@@ -67,6 +66,9 @@
   <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
+
+
+<!--
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -113,15 +115,19 @@
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+-->
 
 
-
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=sakakibara-yuuki&theme=flat)
 ![Sakakibara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakakibara-yuuki&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakakibara-yuuki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Static Badge](https://img.shields.io/badge/development-on-blue)
 
+-->
+
+# More
 🏅 About me
 ---
 * 💻Reinforcement learning Engineer(2022~2023)
@@ -143,7 +149,17 @@
 
 GitHub project
 ---
-* Comming soon
+* Comming soon ...
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/)
+[![Medium Badge](https://img.shields.io/badge/-@jessicalim-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@jessicalim)
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
+[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+
+
 
 <!--
 ### Currently working on
@@ -170,7 +186,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # Hi I'm Jessica 👋
 
@@ -201,3 +217,4 @@ A new word cloud will be automatically generated when you [add your own word](ht
 ## Where are you hoping to travel next? :airplane: :earth_americas: :luggage:
 
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+-->
