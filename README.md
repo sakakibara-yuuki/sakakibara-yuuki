@@ -25,7 +25,7 @@
   <!-- <br>
   📚 I’m currently learning how to build E-Commerce Website with Django -->
   <br>
-  💬 Ask me anything about from <a href="https://github.com/yuuki-sakakibara/yuuki-sakakibara/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/sakakibara-yuuki/sakakibara-yuuki/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: sakakilabo0000@gmail.com">sakakilabo0000@gmail.com</a>
   <br>
